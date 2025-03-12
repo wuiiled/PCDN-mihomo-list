@@ -10,7 +10,19 @@ DOMAIN-SUFFIX,uhabo.com
 DOMAIN-SUFFIX,xycdn.com
 
 # 视频平台 CDN
-DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,stun.douyucdn.cn
+DOMAIN-SUFFIX,stun1.douyucdn.cn
+DOMAIN-SUFFIX,dyp2p-ali.douyucdn.cn
+DOMAIN-SUFFIX,dyp2p-hw.douyucdn.cn
+DOMAIN-SUFFIX,p2p-ali.douyucdn.cn
+DOMAIN-SUFFIX,p2pchunk-hw.douyucdn.cn
+DOMAIN-SUFFIX,p2pchunk-table.douyucdn.cn
+DOMAIN-SUFFIX,p2pchunk-ws.douyucdn.cn
+DOMAIN-SUFFIX,p2perrorlog.douyucdn.cn
+DOMAIN-SUFFIX,p2plive-ali.douyucdn.cn
+DOMAIN-SUFFIX,p2plive-ws.douyucdn.cn
+DOMAIN-SUFFIX,p2plog.douyucdn.cn
+DOMAIN-SUFFIX,p2pvod-ws.douyucdn.cn
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,pcdn.xmcdn.com
