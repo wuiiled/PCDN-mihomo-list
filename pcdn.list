@@ -26,7 +26,8 @@ DOMAIN,stun.hitv.com
 
 # 正则匹配规则
 DOMAIN-REGEX,.*pcdn.*biliapi.net
-DOMAIN-REGEX,.stun.*\.chat\.bilibili\.com
+#DOMAIN-REGEX,.*stun\d*(-\d+)?\.chat.bilibili.com
+DOMAIN-REGEX,.*stun.*\.chat\.bilibili\.com
 DOMAIN-REGEX,.*pcdn.*youku.com
 DOMAIN-REGEX,.*p2p.*qq.com
 
